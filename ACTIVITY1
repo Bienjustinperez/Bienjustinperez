@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>R.A 10630</title>
+    <style>
+        body {
+            background-color: violet;
+            margin: 20px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        section {
+            border: 1px solid black;
+            padding: 20px;
+            margin-bottom: 20px;
+     
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+
+    <nav> 
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a   href="#about">background</a></li>
+                 
+               
+        
+    </nav>
+   
+    <section id="Home"
+    <h3> HOME </h3>
+    
+    <p>REPUBLIC ACT NO. 10630
+
+AN ACT STRENGTHENING THE JUVENILE JUSTICE SYSTEM IN THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9344, OTHERWISE KNOWN AS THE "JUVENILE JUSTICE AND WELFARE ACT OF 2006" AND APPROPRIATING FUNDS THEREFOR
+   
+    </p> 
+    
+    <section/>
+    
+    <section id="About">
+    <h3> ABOUT </h3>
+    
+    <p> Republic Act No. 10630 is an act that strengthens the juvenile justice system in the Philippines. It amends Republic Act No. 9344, also known as the "Juvenile Justice and Welfare Act of 2006." The purpose of this act is to provide better protection and rehabilitation for children in conflict with the law.
+ 
+ Some key provisions of R.A. 10630 include:<p>
+ 
+1.*** Expansion of the coverage of the law: The act extends the age of criminal responsibility from 15 to below 18 years old.****
+2. ***Diversion programs: It emphasizes the use of diversion programs for children in conflict with the law, which aim to address the root causes of their offenses and promote their reintegration into society.
+3.*** Restorative justice: R.A. 10630 promotes restorative justice principles, which focus on repairing the harm caused by the offense and involving the affected parties in the resolution process.
+4.*** Strengthening of the Juvenile Justice and Welfare Council (JJWC): The act enhances the duties and functions of the JJWC, which is responsible for overseeing the implementation of the law and advising the President on matters related to juvenile justice and welfare.<p>
+    
+    <section id="about">
+            <h4>background</h4>
+    
+    <p>Republic Act No. 10630 is an act that strengthens the juvenile justice system in the Philippines. It amends Republic Act No. 9344, also known as the "Juvenile Justice and Welfare Act of 2006." The law was enacted by the Senate and House of Representatives of the Philippines in Congress assembled.
+ 
+The main purpose of R.A. 10630 is to provide a more comprehensive and child-sensitive approach to dealing with children in conflict with the law. It emphasizes the best interest of the child and aims to promote their rehabilitation and reintegration into society.
+ 
+The law establishes a comprehensive juvenile justice system and strengthens the Juvenile Justice and Welfare Council. It also appropriates funds for the implementation of the law<p>
+    
+    
