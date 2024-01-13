@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        
+    </body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>Tech Master Sheraz</title>
+    <style>
+        body {
+            font-family: roboto, sans-serif;
+            margin: 10px;
+            padding: 10px;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #555;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 10px;
+        }
+
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #555;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>BIEN JUSTIN B PEREZ </h1>
+        <p>Welcome to my website!</p>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <main>
+        <section id="home">
+            <h2>Home</h2>
+            <p>Republic Act No. 10630 is an act that strengthens the juvenile justice system in the Philippines. It amends Republic Act No. 9344, also known as the "Juvenile Justice and Welfare Act of 2006." The purpose of this act is to provide better protection and rehabilitation for children in conflict with the law</p>
+        </section>
+
+        <section id="about">
+            <h2>About</h2>
+            <p>
+    <p>Republic Act No. 10630 is an act that strengthens the juvenile justice system in the Philippines. It amends Republic Act No. 9344, also known as the "Juvenile Justice and Welfare Act of 2006." The law was enacted by the Senate and House of Representatives of the Philippines in Congress assembled.
+ 
+The main purpose of R.A. 10630 is to provide a more comprehensive and child-sensitive approach to dealing with children in conflict with the law. It emphasizes the best interest of the child and aims to promote their rehabilitation and reintegration into society.
+ 
+The law establishes a comprehensive juvenile justice system and strengthens the Juvenile Justice and Welfare Council. It also appropriates funds for the implementation of the law<p>
+    
+    </p>
+        </section>
+
+        <section id="services">
+            <h2>Services</h2>
+         <p>R.A 10630 refers to the Revised Anti-Illegal Logging Act of 2013 in the Philippines. This law aims to address the issue of illegal logging and promote sustainable forest management. It provides stricter penalties for those involved in illegal logging activities, as well as measures to prevent and suppress illegal logging operations.
+ 
+Some of the key provisions of R.A 10630 include:
+ 
+<li>1. Creation of the Anti-Illegal Logging Task Force: This task force is responsible for coordinating efforts to combat illegal logging and enforcing the provisions of the law.</la>
+
+<li>2. Enhanced penalties: The law imposes higher fines and longer imprisonment terms for individuals involved in illegal logging activities. It also imposes penalties on government officials who fail to enforce the law effectively.</la>
+
+<li>3. Forest protection and management: R.A 10630 emphasizes the importance of sustainable forest management and the protection of forest resources. It promotes the use of advanced technology and techniques to monitor and prevent illegal logging.</la>
+<li>4. Community involvement: The law encourages the participation of local communities in forest protection and management. It recognizes the important role that communities play in safeguarding forest resources.
+ 
+R.A 10630 aims to address the environmental, economic, and social impacts of illegal logging. By implementing stricter measures and promoting sustainable forest management, the law seeks to protect the country's forests and biodiversity for future generations.</la>
+ </p> 
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>If you have any inquiries or would like to request a service, please contact us:</p>
+            <p>Email: bienperez3@gmail.com</p>
+            <p>Phone: 09359344492</p>
+        </section>
+    </main>
+
+    <footer>
+        &copy; 2023 BIEN JUSTIN PEREZ All rights reserved.
+    </footer>
+</body>
+</html>
